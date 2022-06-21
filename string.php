@@ -16,7 +16,7 @@ echo "<br>";
 echo str_repeat("Range Rover",5);
 echo "<br>";
 echo "<hr>";
-
+//more string functions
 echo str_shuffle("Gitonga");
 echo "<br>";
 echo str_word_count("Mercedes Benz");
