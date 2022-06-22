@@ -3,7 +3,7 @@
 //Credit ~~ 31-50
 //Pass ~~ 50-75
 //Distinction ~~ 75-100
-$marks=36;
+$marks=76;
 
 switch ($marks){
         case ($marks>0 && $marks<30);

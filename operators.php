@@ -2,7 +2,7 @@
 
 //arithmetic operators
 $num1=58;
-$num2=19;
+$num2=20;
 $num3="19";
 echo $num2+$num1;
 echo "<br>";

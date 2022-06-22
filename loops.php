@@ -36,7 +36,7 @@ while($num3>25);
 echo "<hr>";
 //for loop
 //increment
-$nambari=20;
+$nambari=22;
 $nambari2=30;
 
 for ($nambari=40; $nambari<200; $nambari+=20){

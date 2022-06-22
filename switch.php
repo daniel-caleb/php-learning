@@ -17,8 +17,8 @@ switch ($mycar){
     case "Range Rover";
         echo "A Range Rover Sport!";
         break;
-    case "Tesla";
-        echo "It is a Tesla!";
+    case "Mazda";
+        echo "It is a Mazda Axela!";
         break;
     default;
         echo "Wow! You really have no taste my friend..hahaha!";
